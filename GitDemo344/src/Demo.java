@@ -14,6 +14,10 @@ public void m2()
 System.out.println(" hello m2 method ");
 }
 
+public void m40()
+{
+System.out.println(" hello m40 method ");
+}
 
 
 public void sum()
@@ -35,7 +39,7 @@ Demo a=new Demo();
 
 a.m1();
 a.m2();
-
+a.m40();
 
 a.sum();
 a.mul();
